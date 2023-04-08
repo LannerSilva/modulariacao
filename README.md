@@ -1,2 +1,0 @@
-# modulariacao
-materia da faculdade 
